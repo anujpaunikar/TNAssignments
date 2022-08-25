@@ -5,4 +5,3 @@ for a in range(1,11):
     for z in table:
         print(num,"X",a,"=",z(num))
         a=a+1
-        
